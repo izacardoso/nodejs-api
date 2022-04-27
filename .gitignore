@@ -1,2 +1,2 @@
 node_modules
-./infraestrutura/conexao.js
+./infraestrutura/database/conexao.js
